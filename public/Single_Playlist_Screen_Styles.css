@@ -226,7 +226,7 @@ main {
 			transparent,
 			rgba(20, 27, 65, 1)
 		),
-		url("/Users/ajaykumarchimata/Downloads/the_weekend.webp");
+		url("/public/Assests/the_weekend.webp");
 	background-size: cover;
 }
 /* right part of the jumbotron */
